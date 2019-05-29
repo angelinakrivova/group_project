@@ -19,7 +19,8 @@
 ![Слайд 14](https://github.com/angelinakrivova/group_project/blob/master/1-%D0%B4%D0%B5%D0%BB%D0%B0%D0%B5%D0%BC%20txt%20%D1%87%D0%B5%D1%80%D0%B5%D0%B7%20sublime.png)
 ![Слайд 15](https://github.com/angelinakrivova/group_project/blob/master/2-%D1%83%D1%80%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D0%BB%D0%BE%D1%81%D1%8C.png)
 ![Слайд 16](https://github.com/angelinakrivova/group_project/blob/master/3-%D0%BB%D0%B5%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B5%D0%BC%20%D1%87%D0%B5%D1%80%D0%B5%D0%B7%20mystem.jpg)
-![Слайд 17]()
+![Слайд 17](https://github.com/angelinakrivova/group_project/blob/master/4-%20%D0%B2%D1%81%D0%B5%20%D0%B5%D1%89%D0%B5%20%D0%BB%D0%B5%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B5%D0%BC%20%D1%87%D0%B5%D1%80%D0%B5%D0%B7%20mystem.jpg)
+![Слайд 18]()
 ### Затем мы использовали Voyant Tools, чтобы проследить количество и плотность употреблений главных "-изм-"ов. Мы проанализировали как каждый текст в отдельности, так и, создав общий документ из всех материалов, проанализировали его. Таким образом, мы обнаружили в какой из периодов какие "-измы-" употреблялись чаще, это помогло выделить ключевые слова для определенного периода.
 ### Выводы: 
 ### 1. Мы рассмотрели распространенность существительных с суффиксом "–изм-" во время существования СССР.
