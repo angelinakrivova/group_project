@@ -29,16 +29,16 @@
 ![Слайд 24](https://github.com/angelinakrivova/group_project/blob/master/11-%D1%83%D0%B6%D0%B5%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D1%82%D0%BE%D0%B3%D0%BE%20%D0%BA%D0%B0%D0%BA%20%D0%BF%D0%BE%D0%BD%D1%8F%D0%BB%D0%B8%20%D1%87%D1%82%D0%BE%20%D0%BB%D0%B5%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D1%8B%D0%B5%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%8B%20%D0%BD%D0%B5%20%D0%BE%D1%87%2C%20%D0%BD%D0%B0%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5%20%D0%BD%D0%B5%D0%BB%D0%B5%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D0%BB%D0%B8%20%D0%B5%D1%89%D0%B5%20%D1%80%D0%B0%D0%B7%20%D0%BA%D0%BE%D0%BB%D0%BE%D0%BA%D0%B5%D0%B9%D1%82%D1%8B.png)
 ![Слайд 24](https://github.com/angelinakrivova/group_project/blob/master/12-%20%D0%B8%20N-%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B.png.png)
 ### Затем мы использовали Voyant Tools, чтобы проследить количество и плотность употреблений главных "-изм-"ов. Мы проанализировали как каждый текст в отдельности, так и, создав общий документ из всех материалов, проанализировали его. Таким образом, мы обнаружили в какой из периодов какие "-измы-" употреблялись чаще, это помогло выделить ключевые слова для определенного периода.
-![Слайд 25](https://github.com/angelinakrivova/group_project/blob/master/18..docx)
-![Слайд 26](https://github.com/angelinakrivova/group_project/blob/master/19..docx)
-![Слайд 27](https://github.com/angelinakrivova/group_project/blob/master/20-1..docx)
-![Слайд 28](https://github.com/angelinakrivova/group_project/blob/master/20-2..docx)
-![Слайд 29](https://github.com/angelinakrivova/group_project/blob/master/21-1..docx)
-![Слайд 30](https://github.com/angelinakrivova/group_project/blob/master/21-2..docx)
-![Слайд 31](https://github.com/angelinakrivova/group_project/blob/master/22..docx)
-![Слайд 32](https://github.com/angelinakrivova/group_project/blob/master/23-1..docx)
-![Слайд 33](https://github.com/angelinakrivova/group_project/blob/master/23-2..docx)
-![Слайд 34](https://github.com/angelinakrivova/group_project/blob/master/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9_2..docx)
+![Слайд 25](https://github.com/angelinakrivova/group_project/blob/master/18_2..jpg)
+![Слайд 26](https://github.com/angelinakrivova/group_project/blob/master/19_2..jpg)
+![Слайд 27](https://github.com/angelinakrivova/group_project/blob/master/20-1_2..jpg)
+![Слайд 28](https://github.com/angelinakrivova/group_project/blob/master/20-2_2..jpg)
+![Слайд 29](https://github.com/angelinakrivova/group_project/blob/master/21-1_2..jpg)
+![Слайд 30](https://github.com/angelinakrivova/group_project/blob/master/21-2_2..jpg)
+![Слайд 31](https://github.com/angelinakrivova/group_project/blob/master/22_2..jpg)
+![Слайд 32](https://github.com/angelinakrivova/group_project/blob/master/23-1_2..jpg)
+![Слайд 33](https://github.com/angelinakrivova/group_project/blob/master/23-2_2..jpg)
+![Слайд 34](https://github.com/angelinakrivova/group_project/blob/master/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9_2_2..jpg)
 ### Выводы: 
 ### 1. Мы рассмотрели распространенность существительных с суффиксом "–изм-" во время существования СССР.
  ### 2. Наиболее распространенные слова с "–изм-"ами в 40-60е гг. – политические термины, подразумевающие ряд идеологических, философских, исторических процессов.
